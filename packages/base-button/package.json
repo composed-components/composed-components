@@ -16,7 +16,6 @@
   "scripts": {
     "build": "babel --root-mode upward --extensions \".ts,.tsx\" --ignore **/*.spec.ts,**/*.spec.tsx ./src -d ./lib",
     "rm:lib": "rm -rf ./lib",
-    "test": "echo 'test'",
     "postver": "cp package.json CHANGELOG.md README.md ./lib"
   },
   "peerDependencies": {

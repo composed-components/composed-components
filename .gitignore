@@ -1,5 +1,7 @@
-node_modules/
+node_modules
 lerna-debug.log
 npm-debug.log
 yarn-error.log
-lib/
+lib
+dist
+.vscode

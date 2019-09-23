@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BaseButton should match snapshot 1`] = `
+.c0 {
+  display: block;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  width: auto;
+  max-width: 100%;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+<button
+  className="c0"
+  type="button"
+/>
+`;

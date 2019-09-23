@@ -10,18 +10,10 @@
     "suppressImplicitAnyIndexErrors": true,
     "jsx": "react",
     "module": "esnext",
-    "lib": [
-      "dom",
-      "esnext"
-    ],
+    "lib": ["dom", "esnext"],
     "declaration": true,
     "sourceMap": true
   },
-  "include": [
-    "scripts",
-    "packages"
-  ],
-  "exclude": [
-    "node_modules"
-  ]
+  "include": ["scripts", "packages"],
+  "exclude": ["node_modules"]
 }
